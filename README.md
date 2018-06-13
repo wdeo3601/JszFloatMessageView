@@ -12,11 +12,7 @@
     <com.wdeo3601.jszfloatmessageview.JszFloatMessageView
         android:id="@+id/jsz_float_message_view"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:layout_height="wrap_content" />
 ```
 2. 当需要设置消息的时候：
 ```javascript
